@@ -7,9 +7,9 @@
   },
   {
     "full_name": "isaachinman/next-i18next",
-    "stargazers_count": 3063,
+    "stargazers_count": 3077,
     "open_issues_count": 14,
-    "forks_count": 573
+    "forks_count": 579
   },
   {
     "full_name": "lorenaaze/codewars.desafios",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "remotemobprogramming/mob",
-    "stargazers_count": 876,
+    "stargazers_count": 881,
     "open_issues_count": 6,
-    "forks_count": 88
+    "forks_count": 89
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 70218,
-    "open_issues_count": 2354,
-    "forks_count": 3977
+    "stargazers_count": 70358,
+    "open_issues_count": 2379,
+    "forks_count": 3979
   },
   {
     "full_name": "ChrisMarinos/FSharpKoans",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "comadre-tech/desafios",
-    "stargazers_count": 50,
+    "stargazers_count": 52,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "cezaraugusto/You-Dont-Know-JS",
-    "stargazers_count": 3902,
+    "stargazers_count": 3909,
     "open_issues_count": 26,
     "forks_count": 761
   },
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "alura-cursos/kafka-introducao-e-microservicos",
-    "stargazers_count": 66,
+    "stargazers_count": 67,
     "open_issues_count": 0,
     "forks_count": 46
   },
   {
     "full_name": "alexandresanlim/Badges4-README.md-Profile",
-    "stargazers_count": 4297,
-    "open_issues_count": 2,
-    "forks_count": 930
+    "stargazers_count": 4326,
+    "open_issues_count": 1,
+    "forks_count": 931
   },
   {
     "full_name": "coralieco/workshop-git-rebase",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "rockerBOO/awesome-neovim",
-    "stargazers_count": 4127,
-    "open_issues_count": 1,
-    "forks_count": 223
+    "stargazers_count": 4184,
+    "open_issues_count": 0,
+    "forks_count": 230
   },
   {
     "full_name": "atcorrea/poshfiles",
@@ -109,32 +109,32 @@
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 11222,
+    "stargazers_count": 11236,
     "open_issues_count": 0,
-    "forks_count": 645
+    "forks_count": 647
   },
   {
     "full_name": "ardalis/CleanArchitecture",
-    "stargazers_count": 9731,
+    "stargazers_count": 9759,
     "open_issues_count": 28,
-    "forks_count": 1792
+    "forks_count": 1798
   },
   {
     "full_name": "danluu/post-mortems",
-    "stargazers_count": 8982,
-    "open_issues_count": 13,
-    "forks_count": 353
+    "stargazers_count": 8985,
+    "open_issues_count": 14,
+    "forks_count": 354
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 48695,
+    "stargazers_count": 48782,
     "open_issues_count": 281,
-    "forks_count": 6786
+    "forks_count": 6801
   },
   {
     "full_name": "rebus-org/Rebus",
     "stargazers_count": 1780,
-    "open_issues_count": 11,
+    "open_issues_count": 13,
     "forks_count": 330
   },
   {
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "bndw/wifi-card",
-    "stargazers_count": 5717,
+    "stargazers_count": 5720,
     "open_issues_count": 0,
-    "forks_count": 356
+    "forks_count": 357
   },
   {
     "full_name": "denoland/deno",
-    "stargazers_count": 80785,
-    "open_issues_count": 811,
-    "forks_count": 4325
+    "stargazers_count": 80856,
+    "open_issues_count": 828,
+    "forks_count": 4333
   },
   {
     "full_name": "GitbookIO/gitbook",
-    "stargazers_count": 24523,
+    "stargazers_count": 24528,
     "open_issues_count": 1012,
     "forks_count": 3651
   },
   {
     "full_name": "isomorphic-git/isomorphic-git",
-    "stargazers_count": 6168,
-    "open_issues_count": 233,
-    "forks_count": 275
+    "stargazers_count": 6178,
+    "open_issues_count": 234,
+    "forks_count": 276
   },
   {
     "full_name": "geist-org/react",
-    "stargazers_count": 2935,
+    "stargazers_count": 2942,
     "open_issues_count": 5,
     "forks_count": 269
   }
